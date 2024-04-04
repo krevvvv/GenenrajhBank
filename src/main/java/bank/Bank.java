@@ -1,4 +1,5 @@
 package bank;
 
-public class Bank {
+public class Bank  {
+
 }
